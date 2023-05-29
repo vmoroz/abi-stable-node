@@ -7,7 +7,7 @@ workshops discussing Node-API features, best practices, and general design
 principles for creating native Node.js modules using Node-API.
 
 <table>
-<thead><tr><th>Title</th><th>Link</th></tr></thead>
+<thead><tr><th>Title</th><th>Video Link</th></tr></thead>
 <tbody><tr><td valign="top">
 
 **Building Node.js native addons like it's 2023**<br/>
